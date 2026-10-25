@@ -22,3 +22,7 @@ Finished PCB:
 Finished Schematic:
 <br></br>
 <img width="1189" height="815" alt="image" src="https://github.com/user-attachments/assets/86512389-c481-4e9e-835c-192fd0c80225" />
+
+3D model:
+<br></br>
+<img width="579" height="587" alt="Screenshot 2026-10-14 222818" src="https://github.com/user-attachments/assets/554b8c7d-f8e1-434b-aaf4-a3428ba64c93" />
