@@ -1,6 +1,8 @@
 # pcb-project: Tepig Tamagotchi (w/ evolutions)
 Idea:
 Use a xiao esp32 c3 and make a tamagotchi with tepig (best pokemon) as the sprite, with plans to add evolution. <br></br>
+I made this project because my old tamagotchi broke a few years back, and I wanted to have another one. But this time, I wanted to try building a completely custom one. <br></br>
+The pcb includes a microcontroller, buttons, a buzzer, and an oled screen. 
 BOM: <br></br>
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
