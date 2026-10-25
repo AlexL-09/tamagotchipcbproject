@@ -18,3 +18,7 @@ BOM: <br></br>
 Finished PCB:
 <br></br>
 <img width="612" height="596" alt="image" src="https://github.com/user-attachments/assets/4f34618e-30d3-48d7-a5f0-85e7b014a25b" />
+
+Finished Schematic:
+<br></br>
+<img width="1189" height="815" alt="image" src="https://github.com/user-attachments/assets/86512389-c481-4e9e-835c-192fd0c80225" />
