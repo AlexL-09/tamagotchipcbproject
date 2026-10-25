@@ -26,3 +26,7 @@ Finished Schematic:
 3D model:
 <br></br>
 <img width="579" height="587" alt="Screenshot 2026-10-14 222818" src="https://github.com/user-attachments/assets/554b8c7d-f8e1-434b-aaf4-a3428ba64c93" />
+
+final case:
+<br></br>
+<img width="739" height="657" alt="Screenshot 2026-10-18 211155" src="https://github.com/user-attachments/assets/2760163b-3f71-4edd-82c0-b42927d8c8a4" />
